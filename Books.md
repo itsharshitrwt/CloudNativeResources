@@ -5,3 +5,5 @@
 - [Docker Cookbook](https://pepa.holla.cz/wp-content/uploads/2016/10/Docker-Cookbook.pdf)
 
 - [Ansible Beginner to Pro](https://pepa.holla.cz/wp-content/uploads/2016/12/Ansible.pdf)
+
+- [Jenkins: The Definitive Guide](https://archive.org/details/jenkins)
