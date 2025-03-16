@@ -48,4 +48,6 @@ Check Installation
 
 ```
 minikube version
+minikube status
 ```
+
